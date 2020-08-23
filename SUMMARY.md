@@ -2,7 +2,11 @@
 
 * [Initial page](README.md)
 
+## Data Structures
+
 ## Range Query
+
+* [Range Queries](range-query/range-queries.md)
 
 ## Directed Graph
 
