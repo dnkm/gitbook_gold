@@ -1,6 +1,8 @@
-# Initial page
+# Topological Sorting
 
-## Getting Super Powers
+## Directed Graph
+
+* Acyclic
 
 Becoming a super hero is a fairly straight forward process:
 
